@@ -45,4 +45,5 @@ jobs:
       scan-args: |-
         -r
         --skip-git
+        --lockfile=renv.lock
         ./
