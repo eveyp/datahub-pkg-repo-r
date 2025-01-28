@@ -4,6 +4,7 @@ library(sparklyr)
 library(tidyr)
 library(gt)
 library(haven)
+library(readxl)
 
 # Define the start and end dates for the data range
 start_date <- "2010-06-07"
