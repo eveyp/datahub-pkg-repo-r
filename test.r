@@ -3,6 +3,7 @@ library(dbplyr)
 library(sparklyr)
 library(tidyr)
 library(gt)
+library(haven)
 
 # Define the start and end dates for the data range
 start_date <- "2010-06-07"
