@@ -1,6 +1,7 @@
 library(dplyr)
 library(dbplyr)
 library(sparklyr)
+library(tidyr)
 library(gt)
 
 # Define the start and end dates for the data range
