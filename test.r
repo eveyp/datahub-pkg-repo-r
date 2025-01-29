@@ -5,6 +5,7 @@ library(tidyr)
 library(gt)
 library(haven)
 library(readxl)
+library(gdata)
 
 # Define the start and end dates for the data range
 start_date <- "2010-06-07"
